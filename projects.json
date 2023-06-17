@@ -164,4 +164,56 @@
     }
 
   ]
-}
+},
+
+[
+  {
+    "title": "Quantum Simulator",
+    "tags": ["python", "quantum computing", "simulation"],
+    "colour": "#800080",
+    "difficulty": "hard",
+    "lang": "py",
+    "description": "A Python program that simulates quantum systems, allowing users to experiment with quantum algorithms and phenomena."
+  },
+  {
+    "title": "Neural Style Transfer",
+    "tags": ["python", "machine learning", "art"],
+    "colour": "#FF69B4",
+    "difficulty": "medium",
+    "lang": "py",
+    "description": "A Python application that uses deep learning to apply the style of one image to another, creating artistic and visually appealing results."
+  },
+  {
+    "title": "Augmented Reality Game",
+    "tags": ["javascript", "game development", "augmented reality"],
+    "colour": "#00FFFF",
+    "difficulty": "hard",
+    "lang": "js",
+    "description": "A JavaScript-based game that combines virtual elements with the real world using augmented reality techniques, providing an immersive gaming experience."
+  },
+  {
+    "title": "Blockchain-based Voting System",
+    "tags": ["python", "blockchain", "voting"],
+    "colour": "#FFD700",
+    "difficulty": "hard",
+    "lang": "py",
+    "description": "A Python program that utilizes blockchain technology to create a secure and transparent voting system, ensuring integrity and privacy in elections."
+  },
+  {
+    "title": "Autonomous Drone",
+    "tags": ["python", "drone", "autonomous systems"],
+    "colour": "#008080",
+    "difficulty": "hard",
+    "lang": "py",
+    "description": "A Python-based project that involves building an autonomous drone capable of performing tasks and making decisions without human intervention."
+  },
+  {
+    "title": "Emotion Detection in Images",
+    "tags": ["python", "machine learning", "computer vision"],
+    "colour": "#FFA500",
+    "difficulty": "medium",
+    "lang": "py",
+    "description": "A Python program that uses machine learning techniques to analyze facial expressions in images and detect the underlying emotions."
+  }
+]
+
